@@ -9,5 +9,8 @@
     <h1>
         Bienvenidon a la pagina de José
     </h1>
+    <br>
+    <br>
+    <a href="./acercade.php">Ir a Acerca de</a>
 </body>
 </html>
